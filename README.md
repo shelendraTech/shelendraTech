@@ -1,6 +1,6 @@
 - 👋 hello Every One I am Shelendra Singh
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...BTECh
+- 🌱 I’m currently working as a software developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...online
 
